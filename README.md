@@ -11,7 +11,10 @@ Sometimes, we might need to open certain apps during work or preload specific UR
 Add the full path to the applications you want to open inside the 'appNames' array as comma-separated strings. An example for mac is shown below. 
 
 ```
-appPaths = [ "/Applications/Slack.app", "/Applications/Google\ Chrome.app" ]
+appPaths = [ 
+    "/Applications/Slack.app", 
+    "/Applications/Google\ Chrome.app" 
+]
 ```
 
 Add URLs as comma-separated strings inside the 'webURLs' array. Once you add the URLs and run the script, all the URLs will open in your default browser. An example is shown below:
