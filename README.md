@@ -2,7 +2,7 @@
 Collection of automation scripts to enhance productivity
 
 # List of Scripts
-* [work.py](#work-py)
+* [work.py](#workpy)
 
 # work.py
 Sometimes, we might need to open certain apps during work or preload specific URLs every time we log in. After we're done with work, we might need to close all those applications. This script aims to provide a simple solution by automating the entire process. Here's how you can get started.
