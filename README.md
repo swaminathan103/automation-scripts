@@ -28,22 +28,22 @@ After you've customized the script, run the appropriate command in the terminal 
 **To open the applications and URLs:**
 
 ```
-python work.py -s 
+python work.py s 
 ```
 
 or
 
 ```
-python3 work.py -s
+python3 work.py s
 ```
 
 **To close the applications:**
 
 ```
-python work.py -c 
+python work.py c 
 ```
 or 
 
 ```
-python3 work.py -c
+python3 work.py c
 ```
