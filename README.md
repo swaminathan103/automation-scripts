@@ -1,4 +1,4 @@
-# automation-scripts
+# Automation scripts
 Collection of automation scripts to enhance productivity
 
 # List of Scripts
